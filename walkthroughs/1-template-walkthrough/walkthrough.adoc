@@ -3,10 +3,12 @@
 // This is a template meant to be used as a starting point for walkthrough development
 
 [time=5]
-== Task
+== Task Title
 
-// Add your own task here
+// Subtasks are not required. 
+// For simple walkthroughs, create your procedure under tasks.
 
-=== Step
+=== Subtask Title
 
-// Add steps to your task
+. Do first step.
+. Do second step.
