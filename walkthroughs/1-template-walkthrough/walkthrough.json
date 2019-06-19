@@ -1,6 +1,14 @@
 {
   "dependencies": {
     "repos": [],
+    "managedServices": [
+      {
+        "name": "amq-online-standard"
+      },
+      {
+        "name": "fuse"
+      }
+    ],
     "serviceInstances": []
   }
 }
